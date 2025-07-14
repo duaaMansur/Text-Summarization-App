@@ -45,8 +45,8 @@ This repository contains a **Text Summarization Application** with continuous in
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/text-summarization-app.git
-cd text-summarization-app
+git clone https://github.com/duaaMansur/Text-Summarization-App
+cd Text-Summarization-App
 
 # Install dependencies
 pip install -r requirements.txt
